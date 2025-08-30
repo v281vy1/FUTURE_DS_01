@@ -12,7 +12,7 @@ The goal is to analyze an e-commerce dataset, derive insights, and build an **in
 - `images/` – screenshots of the dashboard
 - `README.md` – project documentation
 
-## 📊 Dataset Information
+##  Dataset Information
 This project uses the **UK Online Retail Dataset** (available on [Kaggle](https://www.kaggle.com/carrie1/ecommerce-data)).
 
 - Transactions from Dec 2010 to Dec 2011
