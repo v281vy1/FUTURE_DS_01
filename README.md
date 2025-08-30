@@ -12,6 +12,19 @@ The goal is to analyze an e-commerce dataset, derive insights, and build an **in
 - `images/` – screenshots of the dashboard
 - `README.md` – project documentation
 
+## 📊 Dataset Information
+This project uses the **UK Online Retail Dataset** (available on [Kaggle](https://www.kaggle.com/carrie1/ecommerce-data)).
+
+- Transactions from Dec 2010 to Dec 2011
+- Columns include `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`
+
+### 🔹 Note on Data Files
+- The **raw dataset** is too large (>25 MB) to be uploaded directly to GitHub.
+- Instead:
+  - A **cleaned dataset (`cleaned_ecommerce.csv`)** is provided in this repo.
+  - The full raw dataset can be downloaded from Kaggle: [UK Online Retail Dataset](https://www.kaggle.com/carrie1/ecommerce-data).
+- If you want to try the cleaning process yourself, run `data_cleaning.ipynb` on the raw dataset.
+
 ##  Key KPIs
 - Total Sales
 - Total Orders
