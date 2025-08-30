@@ -36,4 +36,4 @@ The goal is to analyze an e-commerce dataset, derive insights, and build an **in
 ##  How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/FUTURE_DS_01.git
+   git clone https://github.com/v281vy1/FUTURE_DS_01.git
