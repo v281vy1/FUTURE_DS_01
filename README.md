@@ -1,6 +1,5 @@
-# FUTURE_DS_01
-“Task 1 – Business Sales Dashboard (E-commerce) | Future Interns Data Science &amp; Analytics Program”
 # FUTURE_DS_01 – Business Sales Dashboard (E-commerce)
+“Task 1 – Business Sales Dashboard (E-commerce) | Future Interns Data Science &amp; Analytics Program”
 
 ##  Project Overview
 This repository contains **Task 1** of the Future Interns Data Science & Analytics Program.  
