@@ -11,6 +11,7 @@ The goal is to analyze an e-commerce dataset, derive insights, and build an **in
 - `pbix/` – Power BI dashboard file
 - `images/` – screenshots of the dashboard
 - `README.md` – project documentation
+  
 
 ##  Dataset Information
 This project uses the **UK Online Retail Dataset** (available on [Kaggle](https://www.kaggle.com/carrie1/ecommerce-data)).
@@ -40,6 +41,19 @@ This project uses the **UK Online Retail Dataset** (available on [Kaggle](https:
 - Sales trends visualization
 
 ![Dashboard Overview](images/overview.png)
+
+## Insights (Summary)
+- **Data coverage:** Dec 2010 → Mar 2011 (4 months, ~83k transactions).
+- **Monthly trend:** Peak sales in Dec 2010, with a post-holiday dip in Jan and partial recovery in Feb–Mar.
+- **Best-selling products:** <fill from top_products chart>.
+- **Top countries:** <fill from top_countries chart>.
+- **KPIs:** 
+  - Total Revenue = £<TOTAL_REVENUE>
+  - Total Orders = <TOTAL_ORDERS>
+  - Average Order Value (AOV) = £<AOV>
+  - Customers = <CUSTOMERS>
+- **Business takeaway:** Seasonal spikes (holidays), strong product concentration, and UK dominance in revenue.
+
 
 ##  Tech Stack
 - **Python (Pandas, Seaborn, Matplotlib, Plotly)** for cleaning & analysis
