@@ -8,7 +8,7 @@ The goal is to analyze an e-commerce dataset, derive insights, and build an **in
 ##  Repository Structure
 - `data/` – raw and cleaned dataset (CSV)
 - `notebooks/` – Colab notebook with data cleaning & analysis
-- `images/` – screenshots of the dashboard
+- `overview.png` – screenshot of the dashboard
 - `README.md` – project documentation
   
 
@@ -39,7 +39,7 @@ This project uses the **UK Online Retail Dataset** (available on [Kaggle](https:
 - Interactive filters (date, category, product)
 - Sales trends visualization
 
-![Dashboard Overview](images/overview.png)
+![Dashboard Overview](overview.png)
 
 ## Insights (Summary)
 - **Data coverage:** Dec 2010 → Mar 2011 (4 months, ~83k transactions).
