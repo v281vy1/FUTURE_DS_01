@@ -8,7 +8,6 @@ The goal is to analyze an e-commerce dataset, derive insights, and build an **in
 ##  Repository Structure
 - `data/` – raw and cleaned dataset (CSV)
 - `notebooks/` – Colab notebook with data cleaning & analysis
-- `pbix/` – Power BI dashboard file
 - `images/` – screenshots of the dashboard
 - `README.md` – project documentation
   
